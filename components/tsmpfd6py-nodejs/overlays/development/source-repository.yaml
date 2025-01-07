@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tsmpfd6py-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tsmpfd6py-nodejs
